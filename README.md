@@ -9,6 +9,6 @@ selam dünya :D
 |MrScr1pt | Github Yönetici |
 |BilisimciKiz | Kurucu |
 
-##Örnek Başlık
+## Örnek Başlık
 
-###Örnek Başlık 2
+### Örnek Başlık 2
