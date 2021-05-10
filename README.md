@@ -12,3 +12,6 @@ selam dünya :D
 ## Örnek Başlık
 
 ### Örnek Başlık 2
+
+- Madde 1
+-- Madde 2
